@@ -85,7 +85,7 @@ Promptbook project is ecosystem of multiple projects and tools, following is a l
     <tr>
       <td>Promptbook studio</td>
       <td>No-code studio to write book without need to write even the markdown</td>
-      <td rowspan=2>https://promptbook.studio<br/>https://github.com/hejny/promptbook-studio</td>
+      <td rowspan=2>https://promptbook.studio<br/></td>
     </tr>
     <tr>
       <td>Promptbook miniapps</td>
