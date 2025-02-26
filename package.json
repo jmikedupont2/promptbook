@@ -1,6 +1,6 @@
 {
     "name": "promptbook",
-    "version": "0.84.0",
+    "version": "0.84.1a",
     "description": "It's time for a paradigm shift. The future of software in plain English, French or Latin",
     "--note-0": "    <- [🐊]",
     "private": false,
@@ -125,5 +125,8 @@
         "userhome": "1.0.1",
         "waitasecond": "1.11.83",
         "xyzt": "5.4.3"
+    },
+    "exports" : {
+        "wizzard": "./src/wizzard/wizzard.ts"
     }
 }
