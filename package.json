@@ -125,8 +125,5 @@
         "userhome": "1.0.1",
         "waitasecond": "1.11.83",
         "xyzt": "5.4.3"
-    },
-    "exports" : {
-        "wizzard": "./src/wizzard/wizzard.ts"
     }
 }
